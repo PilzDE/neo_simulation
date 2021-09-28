@@ -1,0 +1,12 @@
+- git:
+    local-name: neo_simulation
+    uri: https://github.com/PilzDE/neo_simulation.git
+    version: melodic
+- git:
+    local-name: navigation
+    uri: https://github.com/PilzDE/navigation.git
+    version: main
+- git:
+    local-name: neo_local_planner
+    uri: https://github.com/neobotix/neo_local_planner.git
+    version: noetic
